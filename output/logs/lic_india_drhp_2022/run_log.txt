@@ -1,0 +1,170 @@
+Source: C:\Users\Sri Sumanth\PycharmProjects\drhp\Custom_PDF_DRHP_Parser\input\LIC_India_DRHP_2022.pdf
+Engine: camelot
+Finished files are written directly in the output folder.
+No hierarchy JSON. No API. No OCR.
+PyMuPDF: 2.1
+camelot-py: 2.0.0
+TOC search window: pages 1-20
+Heading detections: [3]
+Structural detections: [3, 11]
+Combined detections: [3, 11]
+
+TOC start page: 3
+TOC end page: 11
+TOC range: 3-11
+Intermediate pages included: [4, 5, 6, 7, 8, 9, 10]
+
+Introductory Information: pages 1-2
+TOC start y on page 3: 48.0
+TOC structural evidence types: {'text-leader': 44, 'no-connector': 8}
+Extraction range: physical pages 1-50 (testing limit, not the entire PDF)
+Main Document: pages 12-50
+Raster image occurrences saved: 22; vector drawings are not exported as images
+PAGE 1 Camelot lattice: 1 detections
+PAGE 2 Camelot lattice: 1 detections
+PAGE 3 Camelot lattice: 0 detections
+PAGE 4 Camelot lattice: 2 detections
+PAGE 5 Camelot lattice: 2 detections
+PAGE 6 Camelot lattice: 1 detections
+PAGE 7 Camelot lattice: 1 detections
+PAGE 8 Camelot lattice: 1 detections
+PAGE 9 Camelot lattice: 1 detections
+PAGE 10 Camelot lattice: 1 detections
+PAGE 11 Camelot lattice: 2 detections
+PAGE 12 Camelot lattice: 1 detections
+PAGE 13 Camelot lattice: 1 detections
+PAGE 14 Camelot lattice: 1 detections
+PAGE 15 Camelot lattice: 1 detections
+PAGE 16 Camelot lattice: 2 detections
+PAGE 17 Camelot lattice: 2 detections
+PAGE 18 Camelot lattice: 2 detections
+PAGE 19 Camelot lattice: 1 detections
+PAGE 20 Camelot lattice: 3 detections
+PAGE 21 Camelot lattice: 1 detections
+PAGE 22 Camelot lattice: 0 detections
+PAGE 23 Camelot lattice: 1 detections
+PAGE 24 Camelot lattice: 0 detections
+PAGE 25 Camelot lattice: 0 detections
+PAGE 26 Camelot lattice: 0 detections
+PAGE 27 Camelot lattice: 1 detections
+PAGE 28 Camelot lattice: 1 detections
+PAGE 29 Camelot lattice: 0 detections
+PAGE 30 Camelot lattice: 0 detections
+PAGE 31 Camelot lattice: 0 detections
+PAGE 32 Camelot lattice: 2 detections
+PAGE 33 Camelot lattice: 3 detections
+PAGE 34 Camelot lattice: 0 detections
+PAGE 35 Camelot lattice: 0 detections
+PAGE 36 Camelot lattice: 0 detections
+PAGE 37 Camelot lattice: 1 detections
+PAGE 38 Camelot lattice: 0 detections
+PAGE 39 Camelot lattice: 0 detections
+PAGE 40 Camelot lattice: 0 detections
+PAGE 41 Camelot lattice: 0 detections
+PAGE 42 Camelot lattice: 0 detections
+PAGE 43 Camelot lattice: 0 detections
+PAGE 44 Camelot lattice: 0 detections
+PAGE 45 Camelot lattice: 1 detections
+PAGE 46 Camelot lattice: 0 detections
+PAGE 47 Camelot lattice: 2 detections
+PAGE 48 Camelot lattice: 1 detections
+PAGE 49 Camelot lattice: 0 detections
+PAGE 50 Camelot lattice: 0 detections
+KEEP p1:lattice:1: 86 physical cells, 77 merged cells, 851 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 1: 958 native word IDs accounted for once; 851 in tables, 107 in body, 11 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p2:lattice:1: 47 physical cells, 43 merged cells, 1985 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 2: 2161 native word IDs accounted for once; 1985 in tables, 176 in body, 11 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 3: 276 native word IDs accounted for once; 0 in tables, 276 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p4:lattice:2: 40 physical cells, 0 merged cells, 458 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p4:lattice:1: 6 physical cells, 0 merged cells, 58 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 4: 761 native word IDs accounted for once; 516 in tables, 245 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p5:lattice:1: 48 physical cells, 0 merged cells, 737 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p5:lattice:2: 8 physical cells, 0 merged cells, 95 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 5: 836 native word IDs accounted for once; 832 in tables, 4 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p6:lattice:1: 38 physical cells, 0 merged cells, 917 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 6: 918 native word IDs accounted for once; 917 in tables, 1 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p7:lattice:1: 40 physical cells, 0 merged cells, 917 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 7: 918 native word IDs accounted for once; 917 in tables, 1 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p8:lattice:1: 26 physical cells, 0 merged cells, 869 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 8: 870 native word IDs accounted for once; 869 in tables, 1 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p9:lattice:1: 56 physical cells, 0 merged cells, 933 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 9: 934 native word IDs accounted for once; 933 in tables, 1 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p10:lattice:1: 42 physical cells, 0 merged cells, 926 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 10: 927 native word IDs accounted for once; 926 in tables, 1 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p11:lattice:1: 38 physical cells, 0 merged cells, 731 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p11:lattice:2: 10 physical cells, 0 merged cells, 63 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 11: 800 native word IDs accounted for once; 794 in tables, 6 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p12:lattice:1: 64 physical cells, 0 merged cells, 876 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 12: 883 native word IDs accounted for once; 876 in tables, 7 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p13:lattice:1: 104 physical cells, 0 merged cells, 551 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 13: 552 native word IDs accounted for once; 551 in tables, 1 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p14:lattice:1: 114 physical cells, 0 merged cells, 548 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 14: 549 native word IDs accounted for once; 548 in tables, 1 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p15:lattice:1: 38 physical cells, 0 merged cells, 212 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 15: 213 native word IDs accounted for once; 212 in tables, 1 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p16:lattice:1: 8 physical cells, 0 merged cells, 59 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p16:lattice:2: 11 physical cells, 1 merged cells, 38 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 16: 755 native word IDs accounted for once; 97 in tables, 658 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p17:lattice:1: 55 physical cells, 5 merged cells, 112 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p17:lattice:2: 67 physical cells, 4 merged cells, 107 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 17: 580 native word IDs accounted for once; 219 in tables, 361 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p18:lattice:2: 98 physical cells, 23 merged cells, 167 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p18:lattice:1: 32 physical cells, 1 merged cells, 78 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 18: 379 native word IDs accounted for once; 245 in tables, 134 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p19:lattice:1: 184 physical cells, 29 merged cells, 297 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 19: 407 native word IDs accounted for once; 297 in tables, 110 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p20:lattice:1: 84 physical cells, 13 merged cells, 150 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p20:lattice:3: 10 physical cells, 0 merged cells, 53 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p20:lattice:2: 16 physical cells, 2 merged cells, 52 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 20: 610 native word IDs accounted for once; 255 in tables, 355 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p21:lattice:1: 8 physical cells, 0 merged cells, 35 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 21: 429 native word IDs accounted for once; 35 in tables, 394 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 22: 874 native word IDs accounted for once; 0 in tables, 874 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p23:lattice:1: 35 physical cells, 0 merged cells, 58 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 23: 696 native word IDs accounted for once; 58 in tables, 638 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 24: 683 native word IDs accounted for once; 0 in tables, 683 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 25: 742 native word IDs accounted for once; 0 in tables, 742 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 26: 923 native word IDs accounted for once; 0 in tables, 923 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p27:lattice:1: 69 physical cells, 2 merged cells, 146 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 27: 845 native word IDs accounted for once; 146 in tables, 699 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p28:lattice:1: 9 physical cells, 2 merged cells, 29 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 28: 920 native word IDs accounted for once; 29 in tables, 891 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 29: 964 native word IDs accounted for once; 0 in tables, 964 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 30: 991 native word IDs accounted for once; 0 in tables, 991 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 31: 1053 native word IDs accounted for once; 0 in tables, 1053 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p32:lattice:1: 100 physical cells, 5 merged cells, 155 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p32:lattice:2: 58 physical cells, 5 merged cells, 104 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 32: 630 native word IDs accounted for once; 259 in tables, 371 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p33:lattice:3: 100 physical cells, 5 merged cells, 160 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p33:lattice:2: 100 physical cells, 5 merged cells, 156 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p33:lattice:1: 49 physical cells, 2 merged cells, 93 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 33: 444 native word IDs accounted for once; 409 in tables, 35 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 34: 964 native word IDs accounted for once; 0 in tables, 964 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 35: 941 native word IDs accounted for once; 0 in tables, 941 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 36: 952 native word IDs accounted for once; 0 in tables, 952 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p37:lattice:1: 67 physical cells, 4 merged cells, 108 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 37: 782 native word IDs accounted for once; 108 in tables, 674 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 38: 918 native word IDs accounted for once; 0 in tables, 918 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 39: 933 native word IDs accounted for once; 0 in tables, 933 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 40: 935 native word IDs accounted for once; 0 in tables, 935 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 41: 1030 native word IDs accounted for once; 0 in tables, 1030 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 42: 922 native word IDs accounted for once; 0 in tables, 922 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 43: 741 native word IDs accounted for once; 0 in tables, 741 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 44: 1031 native word IDs accounted for once; 0 in tables, 1031 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p45:lattice:1: 40 physical cells, 5 merged cells, 92 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 45: 597 native word IDs accounted for once; 92 in tables, 505 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 46: 1028 native word IDs accounted for once; 0 in tables, 1028 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p47:lattice:2: 105 physical cells, 7 merged cells, 152 assigned words, 0 unassigned words, 0 boundary-crossing words
+KEEP p47:lattice:1: 42 physical cells, 7 merged cells, 69 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 47: 530 native word IDs accounted for once; 221 in tables, 309 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+KEEP p48:lattice:1: 49 physical cells, 5 merged cells, 112 assigned words, 0 unassigned words, 0 boundary-crossing words
+PAGE 48: 865 native word IDs accounted for once; 112 in tables, 753 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 49: 980 native word IDs accounted for once; 0 in tables, 980 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+PAGE 50: 958 native word IDs accounted for once; 0 in tables, 958 in body, 0 image occurrences. This is NOT proof of correct cell assignment.
+Existing baseline package: 0 protected files verified unchanged.
+Tables emitted: 41
+Renderer fallback pages: []
+STATUS: SUCCESS
+Output folder: C:\Users\Sri Sumanth\PycharmProjects\drhp\Custom_PDF_DRHP_Parser\output\.collection_stage_9a9890dd63bc\work\lic_india_drhp_2022
+A failed run does not replace the HTML, images, or debug previews.
+Successful execution is not proof of correct grouping on every PDF.
