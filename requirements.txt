@@ -1,0 +1,44 @@
+
+# ============================================================
+# CUSTOM PDF PARSER - REQUIREMENTS
+# ============================================================
+# Purpose:
+# Extract Introductory Information and Table of Contents
+# from financial PDFs into a navigable HTML document.
+#
+# Python: 3.12+
+# ============================================================
+
+
+# 1. PyMuPDF
+# Extracts original PDF words, bounding boxes, images,
+# vector drawings, and page geometry.
+# Also handles page normalization and text preservation.
+pymupdf==2.1
+
+
+# 2. Camelot
+# Detects tables using Lattice, Hybrid, and Network.
+# Provides cell geometry and border information used
+# to reconstruct physical rows, columns, and merged cells.
+camelot-py==2.0.0
+
+
+# 3. Pillow
+# Generates debug images showing detected tables
+# and individual cell boundaries.
+# Required because main.py enables debug=True.
+pillow==13.0.0
+
+
+# ============================================================
+# INSTALLATION
+# ============================================================
+# Run:
+# python -m pip install -r requirements.txt
+#
+# Camelot automatically installs its supporting packages,
+# including NumPy, Pandas, OpenCV, pypdfium2, and playa-pdf.
+#
+# No OCR, LLM, Microsoft models, or cloud APIs required.
+# ============================================================
